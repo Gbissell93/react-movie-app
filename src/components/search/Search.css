@@ -1,0 +1,16 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2vh;
+  margin-top: 30px;
+  justify-content: center;
+}
+
+.search > input {
+  height: 30px;
+}
+
+span {
+  margin-top: 20px;
+  margin-right: 10px;
+}
